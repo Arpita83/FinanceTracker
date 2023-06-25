@@ -38,7 +38,7 @@ Github Copilot</br>
 -These additions will provide users with a comprehensive view of their financial activities, including monitoring stock portfolios and managing cryptocurrency investments.</br>
 
 ## Usage
-To use the Personal Finance Tracker, follow these steps:
+To use the Personal Finance Tracker, follow these steps:</br>
 1.Clone it in your local system.<br/>
 2.In both server and client folders<br/>
 3.Click on "Open with live server" or Alt+L+Alt+O<br/>
