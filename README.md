@@ -1,4 +1,4 @@
-# MONEY-SENSEI : Personal-Finance-Tracker
+# MoneySensei : Personal-Finance-Tracker
 
 ## Introduction
 MoneySensei, created with HTML, CSS, and JavaScript and with the help of GitHub Copilot, is a web-based application that allows individuals to track income, expenses, savings, budgets, and goals. It provides a user-friendly platform to visualize financial data and manage reminders effectively. </br>
