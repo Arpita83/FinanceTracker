@@ -22,6 +22,8 @@ Github Copilot</br>
 
 ## GitHub Copilot Integration
 
+![WhatsApp Image 2023-06-25 at 18 45 21](https://github.com/Arpita83/FinanceTracker/assets/91597725/1b99031c-ca45-41fb-a55a-6884c2b6c583)
+![WhatsApp Image 2023-06-25 at 18 46 50](https://github.com/Arpita83/FinanceTracker/assets/91597725/bf05b864-3ac1-4aaa-9e01-2b8e2a06b2e4)
 
 -GitHub Copilot has been an incredible asset in developing our personal financial tracker using HTML, CSS, and JavaScript. It has significantly accelerated our coding process by providing intelligent code suggestions and snippets, enabling us to build the application more efficiently.</br>
 -Copilot assisted in handling complex logic by suggesting code patterns or algorithms. It was useful in the instance of the removeTrans method, which entails validating the deletion and filtering the transactions array based on the ID. Copilot has offered suggestions on how to structure and implement this logic.</br>
