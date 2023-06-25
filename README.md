@@ -44,4 +44,4 @@ To use the Personal Finance Tracker, follow these steps:</br>
 3.Click on "Open with live server" or Alt+L+Alt+O<br/>
 
 ## Contribution
-This project was developed as part of the TechGig Microsoft Github Co-Pilot Hackathon. Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request or open an issue on the GitHub repository.
+This project was developed as part of the TechGig Microsoft Github Copilot Hackathon. Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request or open an issue on the GitHub repository.
